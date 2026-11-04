@@ -1,0 +1,77 @@
+LCI HD (1080p)  (https://iptv-org.github.io/iptv/countries/fr.m3u)  ~ doublon de : LCI (https://iptv-org.github.io/iptv/countries/fr.m3u)
+TMC HD  (https://iptv-org.github.io/iptv/countries/fr.m3u)  ~ doublon de : TMC (1080p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Trace Brazuca HD (1080p)  (https://iptv-org.github.io/iptv/countries/fr.m3u)  ~ doublon de : Trace Brazuca (1080p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Trace Urban HD (1080p)  (https://iptv-org.github.io/iptv/countries/fr.m3u)  ~ doublon de : Trace Urban (1080p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+205 Sony One | HITS Action  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
+206 Sony One | HITS Comédie  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+241 Ciné Action by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8ed1ff5c39700007e2204a.m3u8
+242 Ciné Sci-Fi by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-60c34592c911890007f29a73.m3u8
+243 Ciné Thrillers by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-60c3472a51a2050008dad272.m3u8
+244 Ciné d'Asie by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-62f3e2d000418d00070f7dbc.m3u8
+246 Ciné Western by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-65cca3e2ec452d0008af3a65.m3u8
+247 Pluto TV Polar  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8ed4dbf6bb0800071ffbcb.m3u8
+307 Sony One | Favoris  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-820-FR-SONYONEFAVORIS-LG_FR/playlist.m3u8
+308 Blacklist  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://06cb85ad6ccb4a6b97f561e62d16ad3f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-822-FR-SONYONETHEBLACKLIST-LG_FR/playlist.m3u8
+320 Pluto TV Séries Fantastiques  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-625ec7a1c853fd00073b38fd.m3u8
+346 Louis La Brocante  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8ed6d569d2d4000864a976.m3u8
+380 Les filles d'à côté  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-60549d97cd7b090007c73314.m3u8
+384 Tout le monde déteste Chris  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-67b4b4a21a5ca760802d25fd.m3u8
+405 Series by Pluto TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8ed2d1c34c2300073bf02c.m3u8
+921 Pluto TV Toons  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8eba14a4ffb8000764e950.m3u8
+939 Tortues Ninja TV  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-5f8ecc1b37867f00071469e9.m3u8
+940 One Piece  (https://www.apsattv.com/frlg.m3u)  ~ doublon de : https://jmp2.uk/plu-6380c94947c72b0007ee9a13.m3u8
+Ridiculousness  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Ridiculousness (Germany) (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Comédie  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Comedie (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV  Teen  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Teen FR (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Toons  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Toons FR (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Tortues Ninja TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Tortues Ninja TV (Germany) (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Rétro by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Retro by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Action by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Action by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Series by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Series by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Inside  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Inside (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Cuisine  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Cuisine (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Polar  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Polar (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Louis La Brocante  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Louis La Brocante (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Dossiers FBI  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Dossiers FBI (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Les Nouveaux Detectives  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Les Nouveaux Detectives (https://iptv-org.github.io/iptv/countries/fr.m3u)
+True Crime by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : True Crime by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+MTV CLASSICS  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : MTV CLASSICS (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Hélène et les garçons  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Helene et les garcons (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Le miracle de l'amour  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Le miracle de l'amour (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Les filles d'à côté  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Les filles d'a cote (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Romance by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Romance by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Animaux  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Animaux (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Walker Texas Ranger  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Walker Texas Ranger (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Alerte à Malibu  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Alerte a Malibu (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Les Années fac  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Les Annees fac (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Sci-Fi by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Sci-Fi by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Thrillers by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Thrillers by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Retro Toons  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Retro Toons (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Inazuma Eleven  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Inazuma Eleven (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Histoire  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Histoire (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Aventure  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Aventure (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Y'a que la vérité qui compte  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Y'a que la verite qui compte (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Nature Time  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : NatureTime France (1080p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Séries Fantastiques  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Series Fantastiques (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV French Collection  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV French Collection (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné d'Asie by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine d'Asie by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Detective Conan  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Detective Conan France (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+une fille  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : une fille (https://www.apsattv.com/frlg.m3u)
+Teen Mom  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Teen Mom (Germany) FR (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+One Piece  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : One Piece FR (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Super Kids  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Super Kids (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Kids Classics  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Kids Classics FR (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Catastrophe by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Catastrophe by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Western by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Western by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Investigation by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Investigation by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV 90's Classics  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV 90's Classics (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné Horreur by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine Horreur by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Turbo  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Turbo (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Comédies Cultes  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Comedies Cultes (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Tout le monde déteste Chris  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Tout le monde deteste Chris (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Voyages & Saveurs  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Voyages & Saveurs (720p) (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Ciné 666 by Pluto TV  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Cine 666 by Pluto TV (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Brigade Criminelle  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Brigade Criminelle (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV ANIME GO!  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV ANIME GO! (https://iptv-org.github.io/iptv/countries/fr.m3u)
+Pluto TV Téléréalité France  (https://raw.githubusercontent.com/BuddyChewChew/pluto/refs/heads/main/pluto_fr.m3u)  ~ doublon de : Pluto TV Telerealite France (https://iptv-org.github.io/iptv/countries/fr.m3u)
